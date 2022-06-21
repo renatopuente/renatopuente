@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-<>H1UX UI DESIGN</H1>
+<H1>H1UX UI DESIGN</H1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
