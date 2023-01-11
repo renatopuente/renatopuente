@@ -1,4 +1,4 @@
-<H1> Hi 👋 I'm Renato Puente a UX/UI Designer and Web Developer based on Ecuador</H1>
+<H1> Hi 👋 I'm Renato Puente a UX/UI Designer and Web Developer based in Ecuador</H1>
 
 
 - 🔭 I’m currently working on TATOO ADVENTURE GEAR
