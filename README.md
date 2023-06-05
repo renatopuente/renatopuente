@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning JavaScript
 - 👥 I’m looking to collaborate on WEBFLOW
 - 💬 Ask me about UX/UI/FIGMA/HTML/CSS/WEBFLOW/WORDPRESS
-- 📫 How to reach me: https://reantopuente.com
+- 📫 How to reach me: https://renatopuente.com
