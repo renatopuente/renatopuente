@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on TATOO ADVENTURE GEAR www.tatoo.ws
-- 🌱 I’m currently learning ... Figma Tokens
-- 👥 I’m looking to collaborate on ... WEBFLOW
-- 💬 Ask me about ... UX/UI/FIGMA/HTML/CSS/WEBFLOW/WORDPRESS
+- 🌱 I’m currently learning JavaScript
+- 👥 I’m looking to collaborate on WEBFLOW
+- 💬 Ask me about UX/UI/FIGMA/HTML/CSS/WEBFLOW/WORDPRESS
 - 📫 How to reach me: www.reantopuente.com
